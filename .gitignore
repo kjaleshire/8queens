@@ -1,0 +1,7 @@
+# build artifacts
+/download
+8queens
+nasm
+
+*.dep
+*.o
